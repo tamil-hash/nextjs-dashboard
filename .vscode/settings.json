@@ -1,0 +1,17 @@
+{
+	"editor.quickSuggestions": {
+		"strings": "on"
+	},
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "html"
+  },
+  "typescript.validate.enable": false,
+	"javascript.validate.enable": false,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": "explicit"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}
